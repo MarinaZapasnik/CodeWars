@@ -36,3 +36,5 @@ function keywordCipher(string, keyword){
     return shifr.join('')
     
 }
+
+console.log(keywordCipher("Marina", "happy"));
